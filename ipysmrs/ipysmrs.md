@@ -1,0 +1,4 @@
+ 
+# ipysmrs module
+
+::: ipysmrs.ipysmrs
